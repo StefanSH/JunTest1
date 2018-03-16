@@ -1,0 +1,11 @@
+{
+  "host": "algvoz.beget.tech",
+  "login": "algvoz_test",
+  "password" : "test123",
+  "dir" : "New3",
+  "files" : [
+  	"C:\\Sandbox\\JunTest\\SATA.pdf",
+  	"C:\\Sandbox\\JunTest\\c22657b30a.720.mp4",
+  	"C:\\Sandbox\\JunTest\\3.txt"
+  ]
+}
